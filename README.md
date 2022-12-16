@@ -6,7 +6,7 @@ The Glossary of Latin loanwords from the Italian works of Dante Alighieri was de
 The texts of these works (Rime, Vita Nova, Convivio and Commedia) are taken from the same reference editions that form the basis of DanteSearch (https://dantesearch.dantenetwork.it/), a digital corpus collecting Dante's Italian and Latin works lemmatised with grammatical and syntactic marking.
 
 # Current status
-At present, each one of the 756 lemmas of the resource was linked to the LiLa Lemma Bank (https://github.com/CIRCSE/LiLa_Lemma-Bank) through the corresponding Latin lemma from which the loan was taken.
+At present, each one of the 765 lemmas of the resource was linked to the LiLa Lemma Bank (https://github.com/CIRCSE/LiLa_Lemma-Bank) through the corresponding Latin lemma from which the loan was taken.
 
 The glossary also includes information relevant to the historical linguistic framing of the loan, such as the loan type and its relative position of first attestation or hapax legomenon in the lexicon of XIIIth Century Italian. 
 

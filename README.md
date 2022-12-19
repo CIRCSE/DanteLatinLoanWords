@@ -9,7 +9,7 @@ At present, each one of the 765 lemmas of the resource was linked to the LiLa Le
 
 The glossary also includes information relevant to the historical linguistic framing of the loan, such as the loan type and its relative position of first attestation or hapax legomenon in the lexicon of XIIIth Century Italian. 
 
-In the next future, these data will also be modelled using custom ontologies.
+In the near future, also these data will be modelled using custom ontologies.
 
 # Linking process
 

@@ -25,7 +25,7 @@ Each Latin word corresponding to the loanword has been matched with one or more 
 # Modelling
 
 * Each loanword is modelled as a `Form` linked to its `Lexical Entry` via the property `canonicalForm` in the Ontolex-Lemon ontology.
-* The Latin etymology is expressed as the `Etymon` class in LemonEty (the Ontolex-Lemon Etymological Extension) which is a subclass of Ontolex's `Lexical Entry`.
+* The Latin etymology is expressed as the `Etymon` class which is a subclass of Ontolex's `Lexical Entry` in LemonEty, the Ontolex-Lemon Etymological Extension.
 * The Italian `Lexical Entry` and its Latin `Etymon` are both linked to the class `Etymology`, which allows to represent etymologies as a set of propositions about the history of the word, possibly adding information such as the attribution to scholars and bibliographical references.
 * Attached to the `Etymology` is the class `Etymology Link` that could be used in the future to further specify the link between the `Lexical Entry` of the loanword and its `Etymon` by defining the type of relations they imply (e.g. the type of borrowing, which in this case may be phono-morphological, semantic or due to translation), see section 'Current status' above.
 

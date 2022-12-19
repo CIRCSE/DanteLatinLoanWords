@@ -43,4 +43,4 @@ The LiLa: Linking Latin project has received funding from the European Research 
 
 # Citation
 
-Zenodo link
+Giulia Pedonese, Marco Carlo Passarotti, Francesco Mambrini, & Giovanni Moretti. (2022). CIRCSE/DanteLatinLoanWords: DanteLatinLoanWords (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.7456962

@@ -1,4 +1,3 @@
-# DanteLatinLoanWords
 # Resource description
 
 The Glossary of Latin loanwords from the Italian works of Dante Alighieri was developed by Giulia Pedonese during her PhD course in Italian linguistics and collects 765 Italian words which are Latin loanwords attested in the four Italian works by XIIIth Century writer and poet Dante Alighieri.
@@ -25,8 +24,8 @@ Each Latin word corresponding to the loanword has been matched with one or more 
 
 # Modeling
 
-1. Each loanword is modeled as a Form linked to its Lexical Entry via the property canonicalForm according the Ontolex-Lemon ontology.
-2. The Latin etymology is expressed as the Etymon class in LemonEty (the Ontolex-Lemon Etymological Extension) which is a subclass of Ontolex's Lexical Entry.
+1. Each loanword is modeled as a `Form` linked to its `Lexical Entry` via the property `canonicalForm` in the Ontolex-Lemon ontology.
+2. The Latin etymology is expressed as the `Etymon` class in LemonEty (the Ontolex-Lemon Etymological Extension) which is a subclass of Ontolex's Lexical Entry.
 3. The Italian Lexical Entry and its Latin Etymon are linked through the class Etymology, which allows to represent etymologies as a set of propositions about the history of the word, possibly adding information such as the attribution to scholars and bibliographical references.
 4. Attached to the Etymology is the class Etymology Link that could be used in the future to further specify the link between the Lexical Entry of the loanword and its Etymon by defining the type of relations they imply (e.g. the type of borrowing, which in this case may be phono-morphological, semantic or due to translation), see section 'Current status' above.
 
